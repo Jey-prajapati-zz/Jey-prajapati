@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend Project**
 
-- 💬 Ask me about **Bootstarp,Git and Nodejs**
+- 💬 Ask me about **Bootstrap,Git and Nodejs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
